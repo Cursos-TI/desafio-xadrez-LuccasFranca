@@ -39,11 +39,10 @@ int main() {
         contadorRainha++;
     } while (contadorRainha < casaBispo);
     
-
-    
-    
+    printf("\n");
     // Nível Aventureiro - Movimentação do Cavalo
     // Sugestão: Utilize loops aninhados para simular a movimentação do Cavalo em L.
+    
     // Um loop pode representar a movimentação horizontal e outro vertical.
 
     // Nível Mestre - Funções Recursivas e Loops Aninhados
